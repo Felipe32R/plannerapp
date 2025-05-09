@@ -1,5 +1,4 @@
 {
-  "name": "nlw-journey-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +10,6 @@
     "db:studio": "prisma studio"
   },
   "keywords": [],
-  "author": "Diego Fernandes <diego.schell.f@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "@fastify/cors": "9.0.1",
